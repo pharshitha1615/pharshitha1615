@@ -1,16 +1,86 @@
-## Hi there 👋
+# pharshitha1615
+# Hi, I'm Pooramandla Harshitha 👋
 
-<!--
-**pharshitha1615/pharshitha1615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Problem Solver | Lifelong Learner
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical projects and continuously exploring new technologies. I believe in learning by building, experimenting, and improving one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Passionate about software development
+- 💻 Building projects to strengthen my programming skills
+- 🌱 Currently learning and exploring new technologies
+- 🧠 Interested in problem solving and application development
+- 💡 Always working on new ideas and experiments
+
+---
+
+## 🛠️ Skills
+
+### Programming
+- Java
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+### Concepts
+- Object-Oriented Programming
+- Data Structures
+- Problem Solving
+- Database Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 NurtureCare
+A healthcare-focused web project designed to provide a simple and accessible user experience.
+
+**Technologies:** HTML, CSS
+
+### ☕ Java Projects
+A collection of Java programs and mini-projects created while strengthening programming fundamentals.
+
+**Technologies:** Java
+
+### 🌐 Personal Portfolio
+My personal portfolio showcasing my projects, skills, learning journey, and ideas.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- Backend Development
+- SQL & Databases
+- Software Development Practices
+
+---
+
+## 💭 My Goal
+
+> Learn continuously. Build meaningfully. Improve every day.
+
+I'm working towards becoming a versatile software developer by combining strong fundamentals with practical project experience.
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: [@pharshitha1615](https://github.com/pharshitha1615)
+
+---
+
+⭐ Thanks for visiting my profile!
