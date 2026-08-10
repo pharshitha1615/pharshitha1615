@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./<p align="center">
   <img src="./github-banner.png" width="100%" alt="Pooramandla Harshitha">
-</p>
-
-<h1 align="center">Hi, I'm Pooramandla Harshitha 👋</h1>" width="100%" alt="Pooramandla Harshitha">
 </p>
 
 <h1 align="center">Hi, I'm Pooramandla Harshitha 👋</h1>
